@@ -1,7 +1,7 @@
 # ECOM-BACKEND
 
-## DEMO
-    - [alt text]!('./)
+## DEMO ![alt-text](./images/demo.gif)
+Demo link : https://drive.google.com/file/d/129gijfEKRVqi-NrgUvInfTOfK-QSRDIo/view?usp=sharing
 
 ## INSTALL
     - git clone git@github.com:chdonovan/ecom-backend.git
